@@ -1,0 +1,9 @@
+{
+  "name": "mdui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mdui": "^0.2.1"
+  }
+}
